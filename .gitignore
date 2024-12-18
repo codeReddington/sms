@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore env files
+*.env
+*.env.dev

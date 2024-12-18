@@ -1,0 +1,8 @@
+{
+  "database": {
+    "dsn": "host=localhost user=postgres dbname=test password= port=5432 sslmode=disable"
+  },
+  "server": {
+    "port": ":8080"
+  }
+}
